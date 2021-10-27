@@ -426,4 +426,4 @@ FodyWeavers.xsd
 
 # Other
 *.exe filter=lfs diff=lfs merge=lfs -text
-
+appsettings.Development.json
